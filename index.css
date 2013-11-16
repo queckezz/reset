@@ -1,0 +1,61 @@
+
+/*
+ * New box model support.
+ * http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+ */
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box
+}
+
+/*
+ * Remove default margins.
+ */
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+input {
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+/*
+ * Remove the gray background color from active links in IE 10.
+ */
+
+a {
+  background: transparent;
+}
+
+/*
+ * Remove all fancyness
+ */
+
+:focus {
+  outline: none;
+}
+
+/*
+ * Improve readability when focused and also mouse hovered in all browsers.
+ */
+
+a:active,
+a:hover {
+  outline: 0;
+}

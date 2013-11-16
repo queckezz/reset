@@ -1,0 +1,9 @@
+{
+  "name": "reset",
+  "description": "minimal reset for modern web apps for a clean consistent state.",
+  "dependencies": {},
+  "development": {},
+  "styles": [
+    "index.css"
+  ]
+}
