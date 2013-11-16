@@ -1,7 +1,7 @@
 
 # reset
 
-  minimal reset for modern web apps for a clean consistent state.
+  Minimal reset for modern web apps that gives you a clean consistent state.
 
 ## Installation
 

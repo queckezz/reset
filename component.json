@@ -1,6 +1,6 @@
 {
   "name": "reset",
-  "description": "minimal reset for modern web apps for a clean consistent state.",
+  "description": "Minimal reset for modern web apps that gives you a clean consistent state.",
   "dependencies": {},
   "development": {},
   "styles": [
