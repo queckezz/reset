@@ -24,31 +24,31 @@ h6,
 p,
 ul,
 input {
-  margin: 0;
+  margin: 0
 }
 
-ul {
-  padding: 0;
-}
-
-li {
-  list-style-type: none;
-}
-
-/*
- * Remove the gray background color from active links in IE 10.
+/**
+ * Remove default padding.
  */
 
-a {
-  background: transparent;
+ul {
+  padding: 0
+}
+
+/**
+ * Remove bullets.
+ */
+
+li {
+  list-style-type: none
 }
 
 /*
- * Remove all fancyness
+ * Remove outline on focus.
  */
 
 :focus {
-  outline: none;
+  outline: none
 }
 
 /*
@@ -57,5 +57,5 @@ a {
 
 a:active,
 a:hover {
-  outline: 0;
+  outline: 0
 }
